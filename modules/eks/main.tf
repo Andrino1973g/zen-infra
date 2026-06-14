@@ -1,3 +1,4 @@
+# Initial dev environment setup
 data "aws_partition" "current" {}
 
 # IAM Role for EKS Cluster
