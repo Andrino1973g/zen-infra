@@ -1,4 +1,4 @@
-# This is to setup infra
+# This is to setup cluster infra
 
 data "aws_caller_identity" "current" {}
 
